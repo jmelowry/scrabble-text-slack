@@ -3,6 +3,7 @@
 from sys import argv
 
 def convert_string(string):
+'''replaces individual letters and spaces w/ emoji representation'''
 
     modified = []
     for item in string:
