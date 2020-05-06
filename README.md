@@ -1,4 +1,4 @@
 # tfe-scripts
 # scrabble-text-slack
 
-doesn't do anything yet.
+converts characters to corresponding reactions in slack.
